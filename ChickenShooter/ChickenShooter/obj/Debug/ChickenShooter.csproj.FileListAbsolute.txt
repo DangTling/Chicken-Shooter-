@@ -1,0 +1,11 @@
+D:\.NET\ChickenShooter\ChickenShooter\bin\Debug\ChickenShooter.exe.config
+D:\.NET\ChickenShooter\ChickenShooter\bin\Debug\ChickenShooter.exe
+D:\.NET\ChickenShooter\ChickenShooter\bin\Debug\ChickenShooter.pdb
+D:\.NET\ChickenShooter\ChickenShooter\obj\Debug\ChickenShooter.csproj.AssemblyReference.cache
+D:\.NET\ChickenShooter\ChickenShooter\obj\Debug\ChickenShooter.csproj.SuggestedBindingRedirects.cache
+D:\.NET\ChickenShooter\ChickenShooter\obj\Debug\ChickenShooter.ChickenShooter.resources
+D:\.NET\ChickenShooter\ChickenShooter\obj\Debug\ChickenShooter.Properties.Resources.resources
+D:\.NET\ChickenShooter\ChickenShooter\obj\Debug\ChickenShooter.csproj.GenerateResource.cache
+D:\.NET\ChickenShooter\ChickenShooter\obj\Debug\ChickenShooter.csproj.CoreCompileInputs.cache
+D:\.NET\ChickenShooter\ChickenShooter\obj\Debug\ChickenShooter.exe
+D:\.NET\ChickenShooter\ChickenShooter\obj\Debug\ChickenShooter.pdb
